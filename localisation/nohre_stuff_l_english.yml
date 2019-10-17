@@ -1,0 +1,15 @@
+﻿l_english:
+  # Missions
+
+ nohre_austrian_ambitions_title: "Austrian Diplomacy"
+ nohre_austrian_ambitions_desc: "Conquest is important, but so is Diplomacy. With a strong relation to the so called 'God's Kingdom' our glorious nation can expand into the Bohemian lands to restore our union in the name of God!"
+
+  # Tooltips
+
+ nohre_austrian_ambitions.1.tooltip: "At least one active Cardinal"
+ nohre_austrian_ambitions.2.tooltip: "§YPapal States§! has at least §Y125§! opinion of [Root.GetName]"
+
+ # Country Modifiers
+
+ succesful_papal_investment: "Successful Papal Investment"
+ austrian_bohemia: "Kingdom of Bohemia"
