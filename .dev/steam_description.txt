@@ -10,17 +10,17 @@ Sick of being demanded unlawful territory?[/h1]
 -Removes the Holy Roman Empire
 -All Scenerios Are Supported
 -Removes Free Cities
--Burgundian Succession Changes to support No Holy Roman Empire
--Austrian Mission Changes to reflect No Holy Roman Empire[
+[strike]-Austrian Mission fixed to support No Holy Roman Empire[/strike]
+[i]Removed due to 1.30 update, will be fixed soon[/i] 
 
 [img=http://i.imgur.com/Uf8Z21n.png][/img]
 [img=http://i.imgur.com/1SbgfCk.png][/img]
 
 [b]EU4 VERSION[/b] 
-[i]Europa Universalis IV 1.29 Manchu[/i]
+[i]Europa Universalis IV 1.30.4 Austria[/i]
 
 [b]MOD VERSION[/b] 
-[i]No Holy Roman Empire v1.0[/i]
+[i]No Holy Roman Empire 1.3[/i]
 
 [b]UPDATES[/b] 
 [i]This mod will ALWAYS stay updated![/i]
